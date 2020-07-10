@@ -1,7 +1,12 @@
 {
-  "ReferencesAndLinks": [" Onton J and Makeig S (2009). High-frequency broadband modulations of electroencephalographic spectra. Front. Hum. Neurosci. 3,:61. DOI: 10.3389/neuro.09.061.2009; Onton J., Mackeig S., Independent modulators of regional EEG alpha sub-band power during a working memory task. Poster session presented to Cognitive Neuroscience Society; 2009 March; San Francisco, CA"],
-  "Authors": [" Julie Onton"],
-  "Name": "Emotion Study",
-  "License": "CC0",
-  "BIDSVersion": "1.1.1"
+    "ReferencesAndLinks": [
+        " Onton J and Makeig S (2009). High-frequency broadband modulations of electroencephalographic spectra. Front. Hum. Neurosci. 3,:61. DOI: 10.3389/neuro.09.061.2009; Onton J., Mackeig S., Independent modulators of regional EEG alpha sub-band power during a working memory task. Poster session presented to Cognitive Neuroscience Society; 2009 March; San Francisco, CA"
+    ],
+    "Authors": [
+        " Julie Onton"
+    ],
+    "Name": "Emotion Study",
+    "License": "CC0",
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "10.18112/openneuro.ds003004.v1.0.0"
 }
