@@ -15,7 +15,6 @@
     }
   },
   "PowerLineFrequency": 60,
-  "SubjectArtefactDescription": "NA",
   "TaskName": "ImaginedEmotion",
   "EEGChannelCount": 219,
   "RecordingType": "continuous",
@@ -23,5 +22,6 @@
   "SamplingFrequency": 256,
   "EOGChannelCount": 0,
   "ECGChannelCount": 0,
-  "EMGChannelCount": 0
+  "EMGChannelCount": 0,
+  "SubjectArtefactDescription": "B13 and F31 noisy; good button press, good time on most emotions (few short ones), seemed to lose ability to concentrate at the end; said was very mellow and had hard time getting into emotions, but really tried"
 }

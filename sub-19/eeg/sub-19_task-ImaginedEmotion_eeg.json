@@ -15,7 +15,6 @@
     }
   },
   "PowerLineFrequency": 60,
-  "SubjectArtefactDescription": "NA",
   "TaskName": "ImaginedEmotion",
   "EEGChannelCount": 224,
   "RecordingType": "continuous",
@@ -23,5 +22,6 @@
   "SamplingFrequency": 256,
   "EOGChannelCount": 0,
   "ECGChannelCount": 0,
-  "EMGChannelCount": 0
+  "EMGChannelCount": 0,
+  "SubjectArtefactDescription": "G24 noisy; G18 noisy halfway through track 15 (love); F4 noisy after track 19 (contentment); 1st button press at track 18; grief had good button press; G20 was bad for last emotion; some head movement between emotion and relaxation outro; wasn't sure if she pressed a button every time; she said she lost track of how long she was in each emotion"
 }

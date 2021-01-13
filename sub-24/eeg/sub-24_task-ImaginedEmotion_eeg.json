@@ -15,7 +15,6 @@
     }
   },
   "PowerLineFrequency": 60,
-  "SubjectArtefactDescription": "NA",
   "TaskName": "ImaginedEmotion",
   "EEGChannelCount": 196,
   "RecordingType": "continuous",
@@ -23,5 +22,6 @@
   "SamplingFrequency": 256,
   "EOGChannelCount": 0,
   "ECGChannelCount": 0,
-  "EMGChannelCount": 0
+  "EMGChannelCount": 0,
+  "SubjectArtefactDescription": "some noisy electrodes from the beginning were A20, D16, D8, F21, F3; G10 and G31 were noisy and unstablel B16 unstable but back online before 2nd emotion; subject seemed to lose focus during last 5 emotions, seemed fidgety and might have forgotten button press; B2 seems to have digital skips in narrativeA"
 }

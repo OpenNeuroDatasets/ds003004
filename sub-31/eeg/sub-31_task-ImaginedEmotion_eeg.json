@@ -15,7 +15,6 @@
     }
   },
   "PowerLineFrequency": 60,
-  "SubjectArtefactDescription": "NA",
   "TaskName": "ImaginedEmotion",
   "EEGChannelCount": 213,
   "RecordingType": "continuous",
@@ -23,5 +22,6 @@
   "SamplingFrequency": 256,
   "EOGChannelCount": 0,
   "ECGChannelCount": 0,
-  "EMGChannelCount": 0
+  "EMGChannelCount": 0,
+  "SubjectArtefactDescription": "started file right at beginning of 2 minutes, prebase had decimation accidentaly set 1; all channels seemed good, totally clear by end of experiment; good button presses"
 }

@@ -15,7 +15,6 @@
     }
   },
   "PowerLineFrequency": 60,
-  "SubjectArtefactDescription": "NA",
   "TaskName": "ImaginedEmotion",
   "EEGChannelCount": 232,
   "RecordingType": "continuous",
@@ -23,5 +22,6 @@
   "SamplingFrequency": 256,
   "EOGChannelCount": 0,
   "ECGChannelCount": 0,
-  "EMGChannelCount": 0
+  "EMGChannelCount": 0,
+  "SubjectArtefactDescription": "lots of alpha; clean EEG; D2 unstable off and on; good amount of time for each emotion"
 }

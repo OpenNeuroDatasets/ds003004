@@ -15,7 +15,6 @@
     }
   },
   "PowerLineFrequency": 60,
-  "SubjectArtefactDescription": "NA",
   "TaskName": "ImaginedEmotion",
   "EEGChannelCount": 134,
   "RecordingType": "continuous",
@@ -23,5 +22,6 @@
   "SamplingFrequency": 256,
   "EOGChannelCount": 0,
   "ECGChannelCount": 0,
-  "EMGChannelCount": 0
+  "EMGChannelCount": 0,
+  "SubjectArtefactDescription": "Files 1st = 200Hz changed before baseline/during initial instructions, 2nd = 256Hz. Sound log stopped after intro track 7/8 to emotion and & track 9 awe. Analog line stopped responding(?) at track joy. Next to last emotion - left earpiece tickled. Hard time taking button seriously. Very \"rational\"-had to think of real life events"
 }

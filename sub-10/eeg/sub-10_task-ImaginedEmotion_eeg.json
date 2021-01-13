@@ -15,7 +15,6 @@
     }
   },
   "PowerLineFrequency": 60,
-  "SubjectArtefactDescription": "NA",
   "TaskName": "ImaginedEmotion",
   "EEGChannelCount": 209,
   "RecordingType": "continuous",
@@ -23,5 +22,6 @@
   "SamplingFrequency": 256,
   "EOGChannelCount": 0,
   "ECGChannelCount": 0,
-  "EMGChannelCount": 0
+  "EMGChannelCount": 0,
+  "SubjectArtefactDescription": "A24 noisy-from beginning, seemed to go back online during relaxation scenario; A9 unstable; E12 unstable after 2nd emotion(fear) came back online during disgust; C11 and unstable during disgust; A1 bad; D26 noisy 2/3 way through; E5 noisy and E10 unstable; G18 noisy at the end; couple of button presses during emotion intro (maybe 2)"
 }

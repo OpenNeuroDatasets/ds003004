@@ -15,7 +15,6 @@
     }
   },
   "PowerLineFrequency": 60,
-  "SubjectArtefactDescription": "NA",
   "TaskName": "ImaginedEmotion",
   "EEGChannelCount": 206,
   "RecordingType": "continuous",
@@ -23,5 +22,6 @@
   "SamplingFrequency": 256,
   "EOGChannelCount": 0,
   "ECGChannelCount": 0,
-  "EMGChannelCount": 0
+  "EMGChannelCount": 0,
+  "SubjectArtefactDescription": "G12 unstable in beginning at 1st emotion; F25 had electrode noise; G13 unstable or noisy halfway through; started with mulptiple button presses and then switched to single press after 1st couple of emotions; during track 22 ran out of memory and had to create a new file; H24 on and off since middle of session; during last emotion G10 was noisy and unstable"
 }

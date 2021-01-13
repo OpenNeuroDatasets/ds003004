@@ -15,7 +15,6 @@
     }
   },
   "PowerLineFrequency": 60,
-  "SubjectArtefactDescription": "NA",
   "TaskName": "ImaginedEmotion",
   "EEGChannelCount": 229,
   "RecordingType": "continuous",
@@ -23,5 +22,6 @@
   "SamplingFrequency": 256,
   "EOGChannelCount": 0,
   "ECGChannelCount": 0,
-  "EMGChannelCount": 0
+  "EMGChannelCount": 0,
+  "SubjectArtefactDescription": "B25 noisy, appeared to even out at 4th emotion (frustration); button to advance didn't work for 1st emotion (love); interrupted session to pause recording since button had been unplugged from the computer; recording restarted at beginning of grief script; new C electrodes used for G"
 }
