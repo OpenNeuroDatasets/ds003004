@@ -1,0 +1,16 @@
+{
+    "ReferencesAndLinks": [
+        "Onton J.A. and Makeig S. (2009). High-frequency broadband modulations of electroencephalographic spectra. Front. Hum. Neurosci. 3,:61. DOI: https://doi.org/10.3389/neuro.09.061.2009",
+        "Onton J.A. and Makeig S. (2009). Independent modulators of regional EEG alpha sub-band power during a working memory task. Poster session presented to Cognitive Neuroscience Society; San Francisco, CA. https://sccn.ucsd.edu/~julie/AlphaIMposter.pdf",
+        "Kothe C.A., Makeig S., and Onton J.A. (2013). Emotion Recognition from EEG during Self-Paced Emotional Imagery. 2013 Humaine Association Conference on Affective Computing and Intelligent Interaction. IEEE. 855-858, DOI: https://doi.org/10.1109/ACII.2013.160",
+        "Hsu S.H., Lin Y., Onton J.A., Jung T.P., and Makeig S. (2022). Unsupervised learning of brain state dynamics during emotion imagination using high-density EEG. NeuroImage. 249:118873. DOI: https://doi.org/10.1016/j.neuroimage.2022.118873"
+    ],
+    "Authors": [
+        "Julie Onton",
+        "Scott Makeig"
+    ],
+    "Name": "Imagined Emotion Study",
+    "License": "CC0",
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds003004.v1.1.1"
+}
